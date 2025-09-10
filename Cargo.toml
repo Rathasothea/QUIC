@@ -1,0 +1,22 @@
+[package]
+name = "quic-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "server"
+path = "src/server.rs"
+
+[[bin]]
+name = "client"
+path = "src/client.rs"
+
+[dependencies]
+quinn = "0.10"
+tokio = { version = "1.0", features = ["full", "signal"] }
+rustls = { version = "0.21", features = ["dangerous_configuration"] }
+rustls-pemfile = "1.0"
+rcgen = "0.11"
+anyhow = "1.0"
+tokio-util = "0.7"
+chrono = { version = "0.4", features = ["serde"] }
