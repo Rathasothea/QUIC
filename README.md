@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # New MSQUIC Project
 
 A simple QUIC client-server application using Microsoft's MSQUIC library.
@@ -58,3 +59,6 @@ project/
 ├── docs/            # Documentation
 └── CMakeLists.txt   # Build configuration
 ```
+=======
+# QUIC
+>>>>>>> c9c81831bad22f74cc4948c4fd8525fcd5d85b6a
