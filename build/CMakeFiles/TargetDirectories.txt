@@ -1,0 +1,10 @@
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/quic_server.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/quic_client.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/run-server.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/run-client.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/edit_cache.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/rebuild_cache.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/list_install_components.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/install.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/install/local.dir
+/home/kali/quic-workspace/msquic-project/build/CMakeFiles/install/strip.dir

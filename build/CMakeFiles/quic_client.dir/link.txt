@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/quic_client.dir/src/client.c.o -o bin/quic_client  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmsquic.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lpthread -ldl 
