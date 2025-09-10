@@ -1,0 +1,34 @@
+# Build directories
+build/
+bin/
+lib/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# Executables
+quic_server
+quic_client
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Third party
+third_party/
